@@ -1,0 +1,53 @@
+
+
+h1{
+
+    font-family: "Jacquard 24", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 40%;
+
+}
+
+ p{ 
+
+     
+   font-family:  "Cormorant Garamond", serif;
+   font-weight: 300;
+   font-style: normal;
+   padding-top: 10%;
+   padding-left: 10%;
+
+}
+   
+
+h2{
+
+   font-family: "Jacquard 24", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 37%;
+
+}
+
+  div{
+
+   padding-left:3%;
+
+  }
+
+  img{
+
+   padding-left: 20%;
+   width:60%;
+   height:60%;
+
+  }
+    
+  .lien{
+
+    padding-left: 10%;
+  }
+
+  
+      

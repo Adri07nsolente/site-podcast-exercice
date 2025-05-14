@@ -1,0 +1,34 @@
+body{
+position:absolute;
+ background-color: rgb(255, 239, 219);
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+   
+  color: brown;
+
+}
+
+h1{
+
+
+  padding-left: 45%;
+
+}
+
+h3{
+
+  padding-left: 45%;
+
+}
+
+
+p{
+
+padding-left: 3%;
+
+}
+ nav{
+  
+ text-align: center;
+ padding-left: 10px;
+ }

@@ -1,0 +1,59 @@
+
+
+
+#id{
+text-align: center;
+}
+#debut{
+    margin-top: 7%;
+    padding-left: 10%;
+   
+}
+
+
+.propriete{
+color: blueviolet;
+padding-left: 20%;
+
+}
+
+p.span{
+
+color: aquamarine;
+
+}
+span.vert{
+
+color: rgb(23, 193, 99);
+}
+.standard{
+
+    padding-left: 10%;
+}
+
+u.soulignevert{
+text-decoration-color: rgb(28, 224, 149);
+}
+
+nav {
+    text-align: center;
+    
+    Padding: 10px;
+ }
+ span.rouge{
+
+    color: rgb(190, 1, 58);
+ }
+ .class{
+
+    text-align: center;
+ }
+
+ .detail{
+
+    padding-left: 10%;
+ }
+ u.bleu{
+
+    text-decoration-color: blue;
+ }
